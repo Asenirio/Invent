@@ -1,0 +1,3 @@
+1,add supplier selection when adding products
+1, for transaction logs,use March, 10, 2026 10:29AM format instead of 2026-03-2026
+3, continue the stock in and stock out product selection
